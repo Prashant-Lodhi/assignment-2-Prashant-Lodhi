@@ -11,4 +11,15 @@ public class Student {
     int roll;
     int acount;
     int backlog;
+
+    public Student() {
+    }
+
+    ;
+
+    public Student(int roll, int backlog, int acount) {
+        this.roll = roll;
+        this.acount = acount;
+        this.backlog = backlog;
+    }
 }
