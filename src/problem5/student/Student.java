@@ -22,4 +22,29 @@ public class Student {
         this.acount = acount;
         this.backlog = backlog;
     }
+
+    public int getAcount() {
+        return acount;
+    }
+
+    public int getBacklog() {
+        return backlog;
+    }
+
+    public String getName() {
+        return Name;
+    }
+
+    public void setName(String name) {
+        Name = name;
+    }
+
+    public int getRoll() {
+        return roll;
+    }
+
+    public void setRoll(int roll) {
+        this.roll = roll;
+    }
+
 }
