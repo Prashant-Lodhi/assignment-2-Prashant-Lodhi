@@ -6,5 +6,7 @@
  */
 package problem1.mybst;
 // to implement BinarySearchTree
+
 public class MyBinarySearchTree {
+
 }
