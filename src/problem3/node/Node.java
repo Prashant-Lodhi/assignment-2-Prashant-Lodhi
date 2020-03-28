@@ -6,8 +6,6 @@
  */
 package problem3.node;
 
-import problem1.student.Student;
 public class Node {
-    Student obj;
-    Node next;
+
 }
