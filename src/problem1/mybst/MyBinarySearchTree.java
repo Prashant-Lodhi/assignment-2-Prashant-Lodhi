@@ -17,4 +17,11 @@ public class MyBinarySearchTree {
         root = null;
     }
 
+    public void insert(int val) {
+        TreeNode newnode = new TreeNode();
+        newnode.setData(val);
+        if (root = null) {
+            root = newnode;
+        } else
+    }
 }
